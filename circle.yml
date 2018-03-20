@@ -1,0 +1,6 @@
+machine:
+  environment:
+    API_CONSUMER_KEY: "Testing Testing 1 2"
+test:
+  override:
+    - echo "zomg"
